@@ -54,5 +54,5 @@ MIT License — free for personal and commercial use.
 
 ## 🌐 Connect  
 
-Made with ❤️ by Madhu
+Made  by Madhu
 
